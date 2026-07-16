@@ -165,3 +165,4 @@ can be added to the course repo.
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |   
 | Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io](https://vaasukimarupaka.github.io) | 
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
+| Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
